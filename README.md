@@ -42,7 +42,7 @@
 | 热度值 | 平台返回的热度数值 | 11671729 |
 | 热榜标签 | 平台返回的榜单标签 | hot |
 | 热榜分类 | 平台返回的分类信息 | sports |
-| 热榜链接 | 热榜详情页、文章页或直播页链接 | https://www.toutiao.com/trending/... |
+| 热榜链接 | 热榜详情页、文章页或直播页链接 | [https://www.toutiao.com/trending/7654331928123838002](https://www.toutiao.com/trending/7654331928123838002) |
 
 ## 📄 运行结果示例
 
